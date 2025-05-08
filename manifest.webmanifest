@@ -1,1 +1,14 @@
-{"name":"Bio Buddy","short_name":"Bio","start_url":"https://develephant.github.io/bioboss-app/","display":"standalone","background_color":"#000","theme_color":"#42b883","lang":"en","scope":"/root","icons":[{"src":"pwa-192x192.png","sizes":"192x192","type":"image/png"},{"src":"pwa-512x512.png","sizes":"512x512","type":"image/png"}]}
+{
+  "name": "Bio Buddy",
+  "short_name": "Bio",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#42b883",
+  "lang": "en",
+  "scope": "/root",
+  "icons": [
+    { "src": "pwa-192x192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "pwa-512x512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
