@@ -1,7 +1,7 @@
 {
   "name": "Bio Buddy",
-  "short_name": "Bio",
-  "start_url": "./",
+  "short_name": "BioBoss",
+  "start_url": "./bioboss-app/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#42b883",
