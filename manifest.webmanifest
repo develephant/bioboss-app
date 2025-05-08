@@ -1,7 +1,7 @@
 {
   "name": "Bio Buddy",
   "short_name": "BioBoss",
-  "start_url": "./bioboss-app/",
+  "start_url": "https://develephant.github.io/bioboss-app",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#42b883",
